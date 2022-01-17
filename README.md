@@ -15,6 +15,6 @@ pandoc -s name-fo-file.md -c custom.css --template template.html -o name-of-file
 ```
 
 
-### Template Resources
+### Free Pandoc Templates
 
-https://github.com/ryangrose/easy-pandoc-templates
+[Easy Pandoc Template](https://github.com/ryangrose/easy-pandoc-templates)

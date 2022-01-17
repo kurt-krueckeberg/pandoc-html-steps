@@ -6,7 +6,7 @@
 
 ```bash
 pandoc -D html > default-template.html
-``
+```
 
 - Invoke Pandoc using custom CSS and default template
 

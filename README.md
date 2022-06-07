@@ -14,6 +14,9 @@ pandoc -D html > default-template.html
 pandoc -s name-fo-file.md -c custom.css --template template.html -o name-of-file.html
 ```
 
+OR
+
+If `$styles.html()$` line in your pandoc template, you must have a **styles.html** file that has the CSS to be used. IT will--I think--be read inline.
 
 ### Free Pandoc Templates
 
